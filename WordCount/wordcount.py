@@ -17,7 +17,7 @@ text = """
 
 # 创建词云对象
 wordcloud = WordCloud(width=800, height=800,
-                      background_color='black',
+                      background_color='white',
                       min_font_size=10).generate(text)
 
 # 展示词云
