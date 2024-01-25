@@ -1,0 +1,13 @@
+项目运行环境
+    python 3.9.0
+    所需工具包
+        json
+        random
+        re
+        requests == 2.31.0
+        time
+        bs4 == 0.0.1
+        fake_useragent == 1.3.0
+
+启动位置
+        crawler.py
