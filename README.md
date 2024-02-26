@@ -42,4 +42,7 @@
 - use some knowledge which is mentioned before
 
 
-
+## Contributors
+**attention: names not listed in order**
+- [hen7777777](https://github.com/hen7777777): the undergraduate in Chongqing University
+- [chatJohn](https://github.com/chatJohn): the undergraduate in Chongqing University
