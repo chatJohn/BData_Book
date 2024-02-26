@@ -42,6 +42,12 @@
 - use some knowledge which is mentioned before
 
 
+## Resources Announcement
+***
+**all projects collect which are open sources from the students in Chongqing University year by year.**
+**Special Thanks!!!**
+***
+
 ## Contributors
 **attention: names not listed in order**
 - [hen7777777](https://github.com/hen7777777): the undergraduate in Chongqing University
