@@ -44,10 +44,9 @@
 
 ## Resources Announcement
 ***
-**all projects collect which are open sources from the students in Chongqing University year by year.**
-**Special Thanks!!!**
+**All projects collect which are open sources from the students in Chongqing University year by year.**
 ***
-
+<font color=red>**Special Thanks!!!**</font>
 ## Contributors
 **attention: names not listed in order**
 - [hen7777777](https://github.com/hen7777777): the undergraduate in Chongqing University
