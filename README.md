@@ -1,5 +1,10 @@
 # This Repository has main code about the book of Big Data
+
+## Book Resource
+****
+**Loading...**
 ## Content
+****
 ##### 1. WordCount
 
 - the easiest project
@@ -46,8 +51,9 @@
 ***
 **All projects collect which are open sources from the students in Chongqing University year by year.**
 ***
-<font color=red>**Specially Thanks!!!**</font>
+**Specially Thanks!!!**
 ## Contributors
+****
 **attention: names not listed in order**
 - [hen7777777](https://github.com/hen7777777): the undergraduate in Chongqing University
 - [chatJohn](https://github.com/chatJohn): the undergraduate in Chongqing University
